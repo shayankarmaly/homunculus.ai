@@ -1,0 +1,34 @@
+# ---- PYTHON ----
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+instance/
+.env
+.env.*
+
+# ---- NODE / REACT NATIVE ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/
+dist/
+build/
+coverage/
+*.expo
+.DS_Store
+
+# ---- SYSTEM FILES ----
+Thumbs.db
+.idea/
+.vscode/
+*.log
+
+# ---- MAC / WINDOWS ----
+.DS_Store
+desktop.ini
