@@ -28,6 +28,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.log
+.env
 
 # ---- MAC / WINDOWS ----
 .DS_Store
